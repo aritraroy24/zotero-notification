@@ -1,0 +1,3 @@
+Item Key: 2KYJLR3B
+Type: Journal Article
+Title: A general-purpose material property data extraction pipeline from large polymer corpora using natural language processing

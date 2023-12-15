@@ -1,0 +1,3 @@
+Item Key: 6EDZAREU
+Type: Attachment
+Title: An optoelectronic study to design better benzodithiophene (BDT) donor unit based non-fullerene organic solar cells (OSCs): the DFT approaches

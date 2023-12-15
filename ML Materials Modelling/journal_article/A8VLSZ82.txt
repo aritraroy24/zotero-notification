@@ -1,0 +1,3 @@
+Item Key: A8VLSZ82
+Type: Journal Article
+Title: Text-mined dataset of inorganic materials synthesis recipes

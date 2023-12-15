@@ -1,0 +1,3 @@
+Item Key: 3GJ9EHJM
+Type: Attachment
+Title: Text-mined dataset of inorganic materials synthesis recipes
