@@ -74,7 +74,7 @@ composer install
  - If you don't have composer installed, you can download it from [here](https://getcomposer.org/download/).
 5. It should create a new folder named *vendor* with all the dependencies installed.
 6. After the installation is complete, modify the email template with your name on line number *164* of the file `email_template.twig`.
-7. Finally, create a new zip file with all the contents of the new folder *(zotero-notification-main)*.
+7. Finally, create a new zip file with all the contents of the new folder *(zotero-notification-main.zip)*.
 
 
 #### Creating Account on 000webhost & Uploading the Zip File
@@ -94,7 +94,11 @@ composer install
 
 4. Select the zip file you uploaded and click "Unzip Archive".
 
-5. After the files have been unzipped, delete the `.editorconfig` and `unzipper.php` files from your `public_html` folder.
+5. After the files have been unzipped, delete the `.editorconfig`, `unzipper.php` and the `zotero-notification-main.zip` files from your `public_html` folder.
+
+6. Navigate to the `zotero-notification-main` folder inside your `public_html` folder and move all the files from this folder to the `public_html` folder.
+
+7. Delete the `zotero-notification-main` folder.
 
 For more visualized information, refer to this [000webhost forum thread](https://www.000webhost.com/forum/t/how-to-unzip-files-using-unzipper/51626).
 
