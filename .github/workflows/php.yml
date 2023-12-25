@@ -1,0 +1,10 @@
+name: Scheduled Workflow
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Run a one-line script
+      run: curl https://zotero-notify.000webhostapp.com/index.php
