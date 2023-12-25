@@ -1,4 +1,0 @@
-Item Key: 23TSHAKA
-Type: Annotation Comment
-Title: Jing et al. - 2023 - Machine learning-assisted design of AlN-based high.pdf
-Comment Details: change (a square edge on an object) to a sloping one.
