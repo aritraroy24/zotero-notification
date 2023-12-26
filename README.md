@@ -1,6 +1,6 @@
 # [Zotero Email Notification Automation](https://github.com/aritraroy24/zotero-notification)
 
-![PHP](https://img.shields.io/badge/PHP-5\.3^-yellow)
+![PHP](https://img.shields.io/badge/PHP-7\.3^-yellow)
 ![Target Audience](https://img.shields.io/badge/Audience-Researchers-blue)
 ![GitHub stars](https://img.shields.io/github/stars/aritraroy24/zotero-notification?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/aritraroy24/zotero-notification?style=social)
@@ -43,8 +43,7 @@ This project is an automated system for sending email notifications about Zotero
 Zotero is a free, open-source reference management software that helps you collect, organize, cite, and share research. It's easy to use, connects with your web browser to download sources, and helps you create bibliographies in multiple formats. Whether you're a student, researcher, or scientist, Zotero simplifies the task of managing and organizing research materials.
 
 ## Requirements    
-PHP 5.3 and newer
-(If you still run PHP < 5.6 you should consider updating PHP. These old PHP versions do not get any security updates and your site may be vulnerable.)
+PHP 7.3 and newer
 
 ## How to Host the PHP Script on 000webhost
 
