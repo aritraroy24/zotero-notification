@@ -169,6 +169,12 @@ jobs:
 
 6. Enter a commit message, choose to commit directly to the `main` branch and hit "Commit changes" again.
 
+## Limitations
+1. The free plan of Zotero offers 300 MB of storage and if you are out of storage, you will not be able to sync your library, and eventually, the script will not be able to fetch the latest updates.
+    - So, if you have more than 300 MB of stored data, you will have to upgrade to a paid plan.
+    - If you don't want to upgrade, a way to get around this is to simply remove annotated PDFs after reading and and linking a hosted version of the file from google drive or dropbox.
+2. Google can mark the email as spam. So, you may have to check your spam folder for the notifications and set the email address as "not spam" to receive the notifications in your inbox.
+
 ## License
 
 This project is licensed under the GPL v3 License. See the [LICENSE](LICENSE.md) file for details.
